@@ -1,2 +1,2 @@
 # mask-detector
-The classifies multiple faces at real time into people who are wearing mask and not wearing masks.
+This neural network model, classifies people into who are wearing mask and not wearing masks at the real time.
